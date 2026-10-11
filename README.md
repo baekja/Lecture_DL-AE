@@ -1,13 +1,13 @@
 # 건축공학딥러닝프로그래밍 — 실습 노트북
 
-경희대학교 건축공학과 · 2026-2 · 실습 노트북 저장소
-강의노트(이론): [Notion 강의노트](https://positive-wakeboard-965.notion.site/6f8d1e3037c54b0788bf77e010612e00) · 강의 영상: e-campus(Canvas) 차시별 모듈
+경희대학교 건축공학과 · 실습 노트북 저장소
+강의노트(이론): [Notion 강의노트](https://positive-wakeboard-965.notion.site/6f8d1e3037c54b0788bf77e010612e00) · 강의 영상: e-campus(Canvas) 과목 모듈
 
 ## 실습 목록
 
-| 차시 | 주제 | 실습본 (빈칸 채우기) | 완성본 (정답 · 실행결과) |
+| 실습 | 주제 | 실습본 (빈칸 채우기) | 완성본 (정답 · 실행결과) |
 |:-:|---|:-:|:-:|
-| 11 · Part 1 | PyTorch 첫걸음 — 손으로 풀었던 XOR, PyTorch로 다시 풀기 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_DL-AE/blob/main/L11/L11_xor_practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_DL-AE/blob/main/L11/L11_xor_complete.ipynb) |
+| PyTorch 첫걸음 · Part 1 | XOR 신경망 — PyTorch 첫걸음 — 손으로 풀었던 XOR, PyTorch로 다시 풀기 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_DL-AE/blob/main/L11/L11_xor_practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_DL-AE/blob/main/L11/L11_xor_complete.ipynb) |
 
 ## 사용법
 1. 위 표의 **Open in Colab** 배지를 누릅니다.
