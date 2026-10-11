@@ -8,6 +8,8 @@
 | 실습 | 주제 | 실습본 (빈칸 채우기) | 완성본 (정답 · 실행결과) |
 |:-:|---|:-:|:-:|
 | PyTorch 첫걸음 · Part 1 | 손으로 풀었던 XOR, PyTorch로 다시 풀기 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_DL-AE/blob/main/PyTorch_XOR/xor_practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_DL-AE/blob/main/PyTorch_XOR/xor_complete.ipynb) |
+| PyTorch 실전 · Part 2 | 이미지 6만 장, FashionMNIST 옷 분류 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_DL-AE/blob/main/PyTorch_FashionMNIST/fashion_mnist_practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_DL-AE/blob/main/PyTorch_FashionMNIST/fashion_mnist_complete.ipynb) |
+| PyTorch CNN | 손글씨 숫자(MNIST)를 합성곱 신경망으로 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_DL-AE/blob/main/PyTorch_MNIST_CNN/mnist_cnn_practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_DL-AE/blob/main/PyTorch_MNIST_CNN/mnist_cnn_complete.ipynb) |
 
 ## 사용법
 1. 위 표의 **Open in Colab** 배지를 누릅니다.
